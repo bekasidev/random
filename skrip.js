@@ -8,13 +8,13 @@ $(document).ready(function() {
     },
     {
         "id": "2",
-        "text": "Teks 2"
-        "author": "Nama 2"
+        "text": "Teks 2",
+        "nama": "Nama 2"
     },
     {
         "id": "3",
         "text": "Teks 3",
-        "author": "Nama 3"
+        "nama": "Nama 3"
     },    
     ]
     

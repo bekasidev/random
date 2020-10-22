@@ -28,7 +28,7 @@ $(document).ready(function() {
     },
          {
         "id": "6",
-        "text": "Tetaplah hidup meskk gak berguna",
+        "text": "Tetaplah hidup meski gak berguna",
         "nama": "Fajar"
     },     
     {

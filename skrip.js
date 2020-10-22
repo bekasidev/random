@@ -21,7 +21,7 @@ $(document).ready(function() {
     $.ajax({
     dataType: 'json'
     })
-    var qty =peserta.length;
+    var qty = peserta.length;
     $('#main #text').html('"'+peserta[0].text+'"');
     $('#main #nama').html(peserta[0].nama);
     $("#main #quoteNum").html(quotes.indexOf(quotes[0])+1+' of '+qty);

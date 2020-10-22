@@ -3,18 +3,38 @@ $(document).ready(function() {
   var peserta = [
     {
         "id": "1",
-        "text": "Teks 1",
-        "nama": "Nama 1"
+        "text": "Odading Anjim banget",
+        "nama": "Mang Oleh"
     },
     {
         "id": "2",
-        "text": "Teks 2",
-        "nama": "Nama 2"
+        "text": "Gini amat nasib jones",
+        "nama": "Jomblo Ngenes"
     },
     {
         "id": "3",
-        "text": "Teks 3",
-        "nama": "Nama 3"
+        "text": "Buanglah mantan pada tempatnya",
+        "nama": "Mantan Tersakiti"
+    },    
+    {
+        "id": "4",
+        "text": "Luwak White Koffie, Nyaman diperut",
+        "nama": "Kang Kopi"
+    },
+    {
+        "id": "5",
+        "text": "Kalau ada yang menggantung, tenang aja, itu biji",
+        "nama": "Dr.Boyke"
+    },
+         {
+        "id": "6",
+        "text": "Tetaplah hidup meskk gak berguna",
+        "nama": "Fajar"
+    },     
+    {
+        "id": "7",
+        "text": "Dasar anak durhaka!",
+        "nama": "Ibu"
     },    
   ] 
     $.ajax({

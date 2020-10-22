@@ -16,7 +16,7 @@ $(document).ready(function() {
         "text": "Teks 3",
         "nama": "Nama 3"
     },    
-    ]
+  ]
     
     $.ajax({
     dataType: 'json'
@@ -24,7 +24,7 @@ $(document).ready(function() {
     var qty = peserta.length;
     $('#main #text').html('"'+peserta[0].text+'"');
     $('#main #nama').html(peserta[0].nama);
-    $("#main #quoteNum").html(quotes.indexOf(quotes[0])+1+' of '+qty);
+    $("#main #quoteNum").html(peserta.indexOf(peserta[0])+1+' of '+qty);
     
     //console.log(quotes[randomNum]);
     $('#generate').on('click', function(){

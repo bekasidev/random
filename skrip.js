@@ -3,39 +3,34 @@ $(document).ready(function() {
   var peserta = [
     {
         "id": "1",
-        "text": "Odading Anjim banget",
-        "nama": "Mang Oleh"
+        "text": "Desain Menggambarkan Perasaan",
+        "nama": "Lina Aliani"
     },
     {
         "id": "2",
-        "text": "Gini amat nasib jones",
-        "nama": "Jomblo Ngenes"
+        "text": "Terima Kasih",
+        "nama": "Frido Anggiro"
     },
     {
         "id": "3",
-        "text": "Buanglah mantan pada tempatnya",
-        "nama": "Mantan Tersakiti"
+        "text": "Kehidupan Adalah Sebuah Tantangan",
+        "nama": "Khariza Ardhi Putra"
     },    
     {
         "id": "4",
-        "text": "Luwak White Koffie, Nyaman diperut",
-        "nama": "Kang Kopi"
+        "text": "Free Design For Life",
+        "nama": "Muhammad Juliandi"
     },
     {
         "id": "5",
-        "text": "Kalau ada yang menggantung, tenang aja, itu biji",
-        "nama": "Dr.Boyke"
+        "text": "Yuk, Bisa Yuk!",
+        "nama": "Muhammad Rafli Ramadhan"
     },
          {
         "id": "6",
-        "text": "Tetaplah hidup meski gak berguna",
-        "nama": "Fajar"
-    },     
-    {
-        "id": "7",
-        "text": "Dasar anak durhaka!",
-        "nama": "Ibu"
-    },    
+        "text": "Indah Itu Tak Selalu Membuat Bahagia",
+        "nama": "Fajar Cahyadi Tersakiti"
+    },         
   ] 
     $.ajax({
     dataType: 'json'

@@ -26,11 +26,21 @@ $(document).ready(function() {
         "text": "Yuk, Bisa Yuk!",
         "nama": "Muhammad Rafli Ramadhan"
     },
-         {
+    {
         "id": "6",
         "text": "Indah Itu Tak Selalu Membuat Bahagia",
         "nama": "Fajar Cahyadi Tersakiti"
-    },         
+    },
+    {
+        "id": "7",
+        "text": "Semoga tambah berkah dalam hal kebaikan.",
+        "nama": "Wahyu Budi Saputro"
+    },
+    {
+        "id": "8",
+        "text": "Rock N Roll",
+        "nama": "Firman Nurul Imaman"
+    },       
   ] 
     $.ajax({
     dataType: 'json'
